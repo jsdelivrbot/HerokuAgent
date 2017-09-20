@@ -13,7 +13,7 @@
   "dependencies": {
     "node-agent-sdk": "^0.2.18",
     "prompt-sync": "^4.1.5",
-    "watson-developer-cloud": "^2.32.1"
+    "watson-developer-cloud": "^2.39.0"
   },
   "repository": {
     "type": "git",
