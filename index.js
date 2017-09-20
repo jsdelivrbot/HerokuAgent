@@ -10,7 +10,7 @@ var conversation = new ConversationV1({
   password: '7mjTO30r2wzE', // replace with password from service key
   path: { 
     //workspace_id: '8d7c14df-5198-4deb-a634-d68456e43d99' // welcome conversation
-    workspace_id: '8d7c14df-5198-4deb-a634-d68456e43d99' // AWP Demo
+    workspace_id: 'a3996be7-8052-48ce-a01c-e01d51d39984' // AWP Demo
     //workspace_id: '09a00409-65f0-48b4-ab7c-8ff6da87b6fc' // my example
   }, // replace with workspace ID
   version_date: '2016-07-11'
