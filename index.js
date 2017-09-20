@@ -19,6 +19,12 @@ app.get('/', function(request, response) {
 });
 
 
+var https = require('https');
+
+setInterval(function() {
+    https.get("https://marco-agent.herokuapp.com/");
+}, 600000); // every 5 minutes (300000) every 10 minutes (600000)
+
 
 // Set up Conversation service wrapper.
 var conversation = new ConversationV1({
