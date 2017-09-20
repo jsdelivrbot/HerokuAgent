@@ -4,6 +4,7 @@ var MyCoolAgent = require('./MyCoolAgent');
 
 var openConvs = {};
 
+
 // Set up Conversation service wrapper.
 var conversation = new ConversationV1({
   username: '473cf2b7-41d3-4a70-aa4c-80ebc17c7d93', // replace with username from service key
